@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cuchjm123.github.io</id>
     <title>Gridea</title>
-    <updated>2019-09-19T03:38:01.617Z</updated>
+    <updated>2019-09-19T05:42:51.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cuchjm123.github.io"/>
     <link rel="self" href="https://cuchjm123.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://cuchjm123.github.io/images/avatar.png</logo>
     <icon>https://cuchjm123.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[有了一个自己的博客]]></title>
+        <id>https://cuchjm123.github.io/post/you-liao-yi-ge-zi-ji-de-bo-ke</id>
+        <link href="https://cuchjm123.github.io/post/you-liao-yi-ge-zi-ji-de-bo-ke">
+        </link>
+        <updated>2019-09-19T05:38:58.000Z</updated>
+        <content type="html"><![CDATA[<p>根据「最小作品单位」的概念，这个博客产生了。</p>
+<p>按照以往的“完美主义”，总是得折腾折腾再折腾，但现在不会有这样的想法了。</p>
+<p>先整出来再说。</p>
+<p>这是一个私人花园，期待各位的光临。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://cuchjm123.github.io/post/hello-gridea</id>
